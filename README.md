@@ -8,5 +8,5 @@ Here are some of the programs I had to do in java from February to June in 2021
 ## __FirstGraphicInteface__
 - Simple window with button
 
-## __Soon__
+## __PetitsChevaux__
 - Game of small horses with graphic interface button etc..
